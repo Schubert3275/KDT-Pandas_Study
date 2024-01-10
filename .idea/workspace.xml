@@ -4,10 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="">
+    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying">
+      <change afterPath="$PROJECT_DIR$/DATA/Multiple Worksheets.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Single Worksheet.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/cereals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/chicago_food_inspections.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/citibike.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/deliveries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/disney.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/fortune1000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/google_stocks.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/happiness.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/ice_cream.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/investments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/meetup/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/meetup/cities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/meetup/groups1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/meetup/groups2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/minimum_wage.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/nba.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/neighborhoods.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/netflix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/nfl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/nobel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/recipes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/restaurant/customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/restaurant/foods.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/restaurant/week_1_sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/restaurant/week_1_satisfaction.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/restaurant/week_2_sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/revolutionary_war.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/sales_by_employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/space_missions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/tv_shows.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/used_cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/video_game_sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_file_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_file_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_file_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_file_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_modle_package_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_modle_package_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_module_package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/ex_test_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/fruits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/message_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/mydata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/mydata2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_01/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAY_01/ex_file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/ex_file_read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_01/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/message.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +80,39 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2ajyR2bwulLu6LVnsQNnSIWckQA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ex_file_copy.executor": "Run",
+    "Python.ex_file_method.executor": "Run",
     "Python.ex_file_read.executor": "Run",
+    "Python.ex_file_with.executor": "Run",
+    "Python.ex_file_write.executor": "Run",
+    "Python.ex_modle_package_03.executor": "Run",
+    "Python.ex_module_package.executor": "Run",
+    "Python.ex_test_file.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Pandas_workspace",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "last_opened_file_path": "D:/Pandas_workspace/DAY_01",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.lite"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pandas_workspace\DAY_01" />
+      <recent name="D:\Pandas_workspace" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,9 +129,33 @@
       <option name="presentableId" value="Default" />
       <updated>1704846270292</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pandas Studying">
+      <option name="closed" value="true" />
+      <created>1704850420157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704850420157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -72,5 +165,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Pandas Studying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas Studying" />
   </component>
 </project>
