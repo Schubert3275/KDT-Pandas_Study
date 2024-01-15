@@ -3,5 +3,6 @@
     "python.autoComplete.addBrackets": true,
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.autoImportCompletions": false,
-    "cSpell.allowCompoundWords": true
+    "cSpell.allowCompoundWords": true,
+    "python.analysis.completeFunctionParens": true
 }
