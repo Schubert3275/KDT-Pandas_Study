@@ -4,5 +4,9 @@
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.autoImportCompletions": false,
     "cSpell.allowCompoundWords": true,
-    "python.analysis.completeFunctionParens": true
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "python.analysis.inlayHints.pytestParameters": false
 }
