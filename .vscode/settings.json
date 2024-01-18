@@ -8,5 +8,9 @@
     "python.analysis.autoFormatStrings": true,
     "python.analysis.inlayHints.callArgumentNames": "partial",
     "python.analysis.inlayHints.functionReturnTypes": false,
-    "python.analysis.inlayHints.pytestParameters": false
+    "python.analysis.inlayHints.pytestParameters": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+      }
 }
