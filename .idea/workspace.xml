@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying" />
+    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying">
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_class_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_class_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_05/work_0116_이현길/work_0116.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_05/work_0116_이현길/work_0116.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_06/ex_kor_power.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_06/ex_kor_power.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_07/ex_class_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/ex_class_01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +46,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.ex_class_01.executor": "Run",
+    "Python.ex_class_02.executor": "Run",
+    "Python.ex_class_03.executor": "Run",
     "Python.ex_file_copy.executor": "Run",
     "Python.ex_file_method.executor": "Run",
     "Python.ex_file_read.executor": "Run",
@@ -44,17 +57,20 @@
     "Python.ex_module_package.executor": "Run",
     "Python.ex_pandas_01.executor": "Run",
     "Python.ex_test_file.executor": "Run",
+    "Python.work_34.executor": "Run",
+    "Python.work_35.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Pandas_workspace/DAY_01",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.lite"
+    "last_opened_file_path": "D:/Pandas_workspace/DAY_07/work_0118_이현길",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pandas_workspace\DAY_07\work_0118_이현길" />
       <recent name="D:\Pandas_workspace\DAY_01" />
       <recent name="D:\Pandas_workspace" />
     </key>

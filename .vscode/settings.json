@@ -1,4 +1,5 @@
 {
+  "python.pythonPath": "C:\\ProgramData\\anaconda3\\envs\\My_38\\python.exe",
   "python.languageServer": "Pylance",
   "python.autoComplete.addBrackets": true,
   "python.analysis.typeCheckingMode": "off",
@@ -10,9 +11,4 @@
   "python.analysis.inlayHints.functionReturnTypes": false,
   "python.analysis.inlayHints.pytestParameters": false,
   "editor.defaultFormatter": "ms-python.autopep8",
-  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
-  "editor.formatOnSave": true,
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
-  }
 }
