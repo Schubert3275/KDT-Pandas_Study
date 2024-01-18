@@ -1,16 +1,21 @@
 {
-    "python.languageServer": "Pylance",
-    "python.autoComplete.addBrackets": true,
-    "python.analysis.typeCheckingMode": "off",
-    "python.analysis.autoImportCompletions": false,
-    "cSpell.allowCompoundWords": true,
-    "python.analysis.completeFunctionParens": true,
-    "python.analysis.autoFormatStrings": true,
-    "python.analysis.inlayHints.callArgumentNames": "partial",
-    "python.analysis.inlayHints.functionReturnTypes": false,
-    "python.analysis.inlayHints.pytestParameters": false,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8",
-        "editor.formatOnSave": true
-      }
+  "python.languageServer": "Pylance",
+  "python.autoComplete.addBrackets": true,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.autoImportCompletions": false,
+  "cSpell.allowCompoundWords": true,
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.autoFormatStrings": true,
+  "python.analysis.inlayHints.callArgumentNames": "partial",
+  "python.analysis.inlayHints.functionReturnTypes": false,
+  "python.analysis.inlayHints.pytestParameters": false,
+  // 파일을 저장할 때마다 `eslint` 규칙에 따라 자동으로 코드를 수정
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  // `prettier`를 기본 포맷터로 지정
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // 파일을 저장할 때마다 포매팅 실행
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  }
 }
