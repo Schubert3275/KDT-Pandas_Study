@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying">
-      <change afterPath="$PROJECT_DIR$/DAY_07/ex_class_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_07/ex_class_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_07/work_0118_이현길/work_36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_05/work_0116_이현길/work_0116.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_05/work_0116_이현길/work_0116.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_06/ex_kor_power.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_06/ex_kor_power.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_07/ex_class_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/ex_class_01.py" afterDir="false" />
-    </list>
+    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +48,7 @@
     "Python.ex_test_file.executor": "Run",
     "Python.work_34.executor": "Run",
     "Python.work_35.executor": "Run",
+    "Python.work_36.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -131,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704939945579</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Pandas Studying">
+      <option name="closed" value="true" />
+      <created>1705581720911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705581720911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
