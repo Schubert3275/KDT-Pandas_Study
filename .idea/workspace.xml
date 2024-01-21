@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying" />
+    <list default="true" id="68495613-55cf-422c-a5f5-cd29b6871aa8" name="변경" comment="Pandas Studying">
+      <change afterPath="$PROJECT_DIR$/DAY_08/ex_plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_08/ex_scatter_plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_08/ex_scatter_plot.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +51,7 @@
     "Python.ex_module_package.executor": "Run",
     "Python.ex_pandas_01.executor": "Run",
     "Python.ex_test_file.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.work_34.executor": "Run",
     "Python.work_35.executor": "Run",
     "Python.work_36.executor": "Run",
@@ -54,7 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Pandas_workspace/DAY_07/work_0118_이현길",
+    "last_opened_file_path": "C:/EXAM_PYTHON/MiniProject_02/relationship_analysis_kor_jpn",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
